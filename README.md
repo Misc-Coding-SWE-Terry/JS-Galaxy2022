@@ -1,1 +1,1 @@
-https://misc-coding-swe-terry.github.io/JS-Galaxy2022/
+Website: https://misc-coding-swe-terry.github.io/JS-Galaxy2022/
